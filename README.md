@@ -23,5 +23,5 @@ This project demonstrates **OOP concepts, CRUD operations, and data structures**
 ## ▶️ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/student-management-system.git
+   git clone https://github.com/sujay20/student-management-system.git
    cd student-management-system
