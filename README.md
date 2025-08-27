@@ -25,3 +25,11 @@ This project demonstrates **OOP concepts, CRUD operations, and data structures**
    ```bash
    git clone https://github.com/sujay20/student-management-system.git
    cd student-management-system
+
+2. Compile the code:
+    ```bash
+    javac studentmanagementsystem.java
+
+3. Run the program:
+   ```bash
+   java studentmanagementsystem
