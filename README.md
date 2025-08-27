@@ -24,4 +24,4 @@ This project demonstrates **OOP concepts, CRUD operations, and data structures**
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/java-student-management.git
-   cd java-student-management
+   cd student-management-system
